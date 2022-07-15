@@ -8,6 +8,6 @@ This repository have projects used in learning studies of python
 Let's code
 <br/>
 <p align="center">
-<img src="./walking-code.gif">
+<img src="walking-code.gif">
 </p>
 
